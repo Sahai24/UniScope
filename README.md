@@ -51,9 +51,9 @@ npm test
 Contribution
 
 Avanish Sahai,
-Sowmya 
-Neha Athani
-Zahabiya Lightwala
+Sowmya R,
+Neha Athani,
+Zahabiya Lightwala,
 ---
 
 ## 🤝 Contributing
